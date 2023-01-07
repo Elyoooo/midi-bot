@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "bot qui permet de donner le temps restant avant d'aller manger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "d",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elyoooo/midi-bot.git"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "bugs": {
+    "url": "https://github.com/Elyoooo/midi-bot/issues"
+  },
+  "homepage": "https://github.com/Elyoooo/midi-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
